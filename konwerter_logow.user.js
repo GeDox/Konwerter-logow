@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         	Konwerter logów
 // @namespace    	http://tampermonkey.net/
-// @version      	3.2
+// @version      	3.3
 // @description  	Szybki konwerter logów pojazdów
 // @author       	Przemysław "Szemek/GeDox" Kozłowski
 // @match        	*://net4game.com/group/*/dashboard/
 // @grant        	GM_addStyle
 // @run-at 			document-end
-// @updateURL		https://n4gmap.kozioldev.eu/konwerter_logow.user.js
+// @updateURL		https://github.com/GeDox/Konwerter-logow/raw/master/konwerter_logow.user.js
 // ==/UserScript==
 
 GM_addStyle('.tm_bold { font-weight: bold }');
